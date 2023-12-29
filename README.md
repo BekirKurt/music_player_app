@@ -1,6 +1,13 @@
 # music_player_app
 
-A new Flutter project.
+<p float="left">
+  <img src="assets/screenshots/Screenshot_1703830226.png" width="300" />
+  <img src="assets/screenshots/Screenshot_1703830307.png" width="300" />
+  <img src="assets/screenshots/Screenshot_1703830274.png" width="300" /> 
+  <img src="assets/screenshots/Screenshot_1703830324.png" width="300" />
+</p>
+
+
 
 ## Getting Started
 
